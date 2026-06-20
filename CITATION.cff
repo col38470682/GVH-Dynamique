@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: GVH-Dynamique
+message: “If you use this software, please cite the associated Volume VIII.”
+type: software
+
+authors:
+
+* family-names: Laurice
+    given-names: Charlemagne
+
+version: 0.1.0
+date-released: 2026-06-20
+
+license: MIT
