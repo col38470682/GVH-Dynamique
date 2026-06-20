@@ -1,4 +1,12 @@
-GVH-Dynamique
+# GVH-Dynamique
+
+GVH Dynamic: A Multi-Scale Diagnostic Framework for Critical Regimes in Nonlinear Dynamical Systems
+
+Author: Charlemagne Laurince
+
+Status: Research framework under active development
+
+Version: 0.1.0
 
 GVH Dynamic: A Multi-Scale Diagnostic Framework for Critical Regimes in Nonlinear Dynamical Systems
 
@@ -93,9 +101,12 @@ Citation
 
 If you use this repository, please cite:
 
-Charlemagne Laurince,
+Laurince, C. (2026).
 
 GVH Dynamic: A Multi-Scale Diagnostic Framework for Critical Regimes in Nonlinear Dynamical Systems.
+
+GitHub repository:
+https://github.com/col38470682/GVH-Dynamique
 
 ⸻
 
