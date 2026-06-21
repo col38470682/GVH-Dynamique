@@ -223,19 +223,15 @@ reste globalement stable malgré les variations des trajectoires. Cette proprié
 
 #### Distribution de B_H
 
-Les campagnes Monte Carlo réalisées sur l'oscillateur de Duffing donnent :
+Les simulations Monte Carlo réalisées dans le cadre de cette étude montrent :
 
 B_H = 2.73 ± 0.49
 
-avec un coefficient de variation :
-
 CV ≈ 0.18
-
-et des valeurs comprises entre :
 
 2.01 ≤ B_H ≤ 4.28
 
-Ces résultats indiquent que l'indice hiérarchique B_H présente une dispersion limitée et constitue une mesure robuste de l'organisation multi-échelle du système.
+Ces résultats indiquent que l’indice hiérarchique B_H présente une dispersion modérée et constitue une mesure robuste de l’organisation multi-échelle du système.
 
 #### Distribution de R_super
 
